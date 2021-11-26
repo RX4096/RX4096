@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @CRZER0
+# 👋 Hi, I’m R3X!
 
-<!---
-CRZER0/CRZER0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📁 Projects
+- [proxy-list](https://github.com/UserR3X/proxy-list): Lists of checked public HTTP/HTTPS proxies.
